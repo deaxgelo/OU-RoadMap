@@ -23,4 +23,4 @@ The program allows users to view a visual layout of the campus, and navigate to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ou-roadmap.git
+   git clone https://github.com/deaxgelo/ou-roadmap.git
