@@ -18,9 +18,3 @@ The program allows users to view a visual layout of the campus, and navigate to 
 - Visual Studio (2019 or later)
 - .NET Framework 4.7.2 (or compatible)
 - Windows OS
-
-### How to Run
-
-1. Clone the repository:
-   ```bash
-   [git clone https://github.com/deaxgelo/ou-roadmap.git](https://github.com/deaxgelo/OU-RoadMap)
